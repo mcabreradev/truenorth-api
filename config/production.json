@@ -1,4 +1,5 @@
 {
   "host": "truenorth-api-app.feathersjs.com",
-  "port": "PORT"
+  "port": "PORT",
+  "mongodb": "mongodb://heroku_p3bgr9gt:spafvik7474b4snjd6hk1p82rf@ds127293.mlab.com:27293/heroku_p3bgr9gt"
 }
